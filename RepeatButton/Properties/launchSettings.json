@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RepeatButton (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "RepeatButton (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
